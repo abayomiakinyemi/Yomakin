@@ -1,0 +1,7 @@
+{
+  "name": "ReguPulse ML4 Performance Suite",
+  "description": "A comprehensive digital platform for NAFDAC to monitor Regulatory Performance Indicators (RPI), drive continuous improvement towards WHO Maturity Level 4, and generate WLA-ready evidence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
